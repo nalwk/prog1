@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-
+Compatible" content="IE=edge">
+    <meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+<title>Document</title> 
+<meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700&family=Sigmar&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">    
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+</head>
+<body>
+    <style>
+        .bg{ 
+        text-align: center;
+        position: relative;
+        padding: 30px;
+        }
+        .bg :after{
+            top:0;
+            left:0;
+            display:block;
+            content: "";
+            width: 100%;
+            height: 120%;
+            background-position: center;
+            background-size:cover;
+            z-index: -1;
+            position: absolute;
+            opacity: 0.2;
+            background-image: url(https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/01/02/wp7322947.jpg);
+        }
+        i{
+            font-size: 25px;
+        }
+    </style>
+    <div class="container">
+        <nav class="navbar navbar-expand-sm  navbar-light">
+            <a class="navbar-brand" href="#">
+                <img src="https://logodix.com/logo/1931272.png"width="30" height="30">
+
+            </a>
+       <button class="navbar-toggler"
+       type="button"
+       data-bs-toggle="collapse"
+       data-bs-target="#toggleMobileMenu"
+       aria-controls="#toggleMobileMenu"
+       aria-label="Toggle navigation"><span class="navbar-toggle-icon">
+
+       </span>
+       </button>
+       <div class="collapse navbar-collapse"id="toggleMobileMenu">
+        <ul class=" navbar-nav text-center">
+            <li> <a class="nav-link" href="#">HOME</a></li>
+            <li><a class="nav-link"href="#">PHOTOS</a></li>
+        </ul>
+
+       </div></nav></div>
+       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+
+<div class="bg">
+<h1>HELLO</h1>
+<p>REGISTER NOW <P>
+    <a class="btn btn-info" href="#"> click </a>
+ </div>
+</br>
+</br>
+ 
+    </div>
+</br>
+<div class="row text-center">
+<div class="col-md-6">
+<img width="500" height="300" src="https://www.animenachrichten.de/wp-content/uploads/2022/07/47-1024x576-1-696x392.jpg">
+</div>
+<div class="col-md-6">
+<h1>who are we</h1></br>
+<h4>get to know us</h4>
+<p>I'm a student studying web design,I will become a professional soon</p> </p>
+<button class="btn btn-primary">click on</button>
+<div>
+</br>
+<a class="fa fa-facebook"></a>
+<a class="fa fa-instagram"></a>
+<a class="fa fa-twitter"></a>
+
+</div>
+</div>
+
+</div>
+
+
+</body>
+</html>
